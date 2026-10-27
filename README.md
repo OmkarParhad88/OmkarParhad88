@@ -25,8 +25,8 @@ All my projects are available at **[omkarparhad.com](https://omkarparhad.com)**.
 ### 🔥 What I'm Doing Right Now
 
 #### 🏢 SAP BTP Development
-Building and deploying enterprise applications on SAP Business Technology Platform using CAP, Cloud Foundry, and containerized workflows.
-`SAP CAP` `Node.js` `Cloud Foundry` `Docker`
+Building and deploying enterprise applications on SAP Business Technology Platform using CAP, Cloud Foundry, and containerized SAP Build Process Automation workflows.
+`SAP CAP` `Node.js` `Cloud Foundry` `SAP BPA`
 
 #### 🌱 Learning AI / ML & Generative AI
 Exploring machine learning and GenAI to bring intelligent features into enterprise applications.
@@ -52,6 +52,7 @@ Exploring machine learning and GenAI to bring intelligent features into enterpri
 ![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP SuccessFactors](https://img.shields.io/badge/SAP_SuccessFactors-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP Cloud Identity Services](https://img.shields.io/badge/SAP_Cloud_Identity_Services-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Build Process Automation](https://img.shields.io/badge/SAP_Build_Process_Automation-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 **Languages & Frameworks**
 
