@@ -11,7 +11,7 @@
 </div>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=omkarparhad88&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 ### 🧠 About Me
 
 > *I build enterprise applications that work in the real world.*
@@ -127,7 +127,5 @@ Exploring machine learning and GenAI to bring intelligent features into enterpri
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-parhad)
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=omkarparhad88&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
