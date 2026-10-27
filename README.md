@@ -53,6 +53,7 @@ Exploring machine learning and GenAI to bring intelligent features into enterpri
 ![SAP SuccessFactors](https://img.shields.io/badge/SAP_SuccessFactors-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP Cloud Identity Services](https://img.shields.io/badge/SAP_Cloud_Identity_Services-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP Build Process Automation](https://img.shields.io/badge/SAP_Build_Process_Automation-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP HANA Cloud](https://img.shields.io/badge/SAP_HANA_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 **Languages & Frameworks**
 
